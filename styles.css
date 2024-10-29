@@ -50,7 +50,7 @@ p {
     left: 20px;
 }
 
-/* Contents page */
+
 .contents {
     padding: 50px; 
 }
@@ -155,4 +155,46 @@ p {
 
 button, a {
     cursor: pointer;
+}
+
+.teju-image {
+    max-width: 100%; 
+    height: auto;     
+    width: 100px;     
+    margin: 20px 0;   
+    display: block;    
+}
+
+.project-detail {
+    max-width: 600px;
+    margin: auto;     
+    padding: 20px;    
+}
+
+.kairos-image {
+    max-width: 100%; 
+    height: auto;     
+    width: 100px;     
+    margin: 20px 0;   
+    display: block;    
+}
+
+.project-detail {
+    max-width: 600px;
+    margin: auto;     
+    padding: 20px;    
+}
+
+.zerza-image {
+    max-width: 100%; 
+    height: auto;     
+    width: 100px;     
+    margin: 20px 0;   
+    display: block;    
+}
+
+.project-detail {
+    max-width: 600px;
+    margin: auto;     
+    padding: 20px;    
 }
